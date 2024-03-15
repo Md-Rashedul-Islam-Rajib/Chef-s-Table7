@@ -1,0 +1,249 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/vB7WjCk/id1.png",
+      "title": "Spicy Shrimp Scampi Pizza",
+      "description": "Fire-kissed shrimp and garlic mingle on a creamy scampi base for a pizza that packs a punch",
+      "ingredients": [
+        "1 lb pizza dough",
+        "1 tbsp olive oil",
+        "4 cloves garlic, minced",
+        "1/2 tsp red pepper flakes",
+        "1 lb shrimp, peeled and deveined",
+        "1 cup cherry tomatoes, halved",
+        "1/2 cup crumbled feta cheese",
+        "1/4 cup chopped fresh parsley",
+        "Salt and pepper to taste"
+      ],
+      "cooking_time": 20,
+      "calories": 500
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/TgRwSZ3/id2.png",
+      "title": "Curried Chicken Noodle Soup",
+      "description": "Classic chicken noodle soup gets a global twist with fragrant curry spices",
+      "ingredients": [
+        "1 tbsp olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tbsp curry powder",
+        "1 tsp ground ginger",
+        "4 cups chicken broth",
+        "2 boneless, skinless chicken breasts, cooked and shredded",
+        "1 cup carrots, diced",
+        "1 cup celery, diced",
+        "1 cup egg noodles",
+        "1/2 cup chopped fresh cilantro",
+        "Salt and pepper to taste"
+      ],
+      "cooking_time": 30,
+      "calories": 350
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/m8dNb9K/id3.png",
+      "title": "Double Chocolate Chip Cookies",
+      "description": "Indulge in chewy cookies packed with rich cocoa dough and melty chocolate chips.",
+      "ingredients": [
+        "1 cup (2 sticks) unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1 cup packed light brown sugar",
+        "2 large eggs",
+        "2 tsp pure vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "2 cups semisweet chocolate chips",
+        "1 cup chopped dark chocolate"
+      ],
+      "cooking_time": 15,
+      "calories": 250
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/zbwLmBr/id4.png",
+      "title": "Black Bean and Quinoa Veggie Burgers",
+      "description": "Hearty and flavorful black bean and quinoa veggie burgers, packed with protein and perfect for a satisfying meatless meal",
+      "ingredients": [
+        "1 (15-oz) can black beans, rinsed and drained",
+        "1 cup cooked quinoa",
+        "1/2 cup breadcrumbs",
+        "1/4 cup chopped red onion",
+        "2 cloves garlic, minced",
+        "1 tbsp olive oil",
+        "1 tsp chili powder",
+        "1/2 tsp cumin",
+        "1/4 tsp smoked paprika",
+        "Salt and pepper to taste",
+        "Hamburger buns"
+      ],
+      "cooking_time": 20,
+      "calories": 400
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/nBn4Pvw/id5.png",
+      "title": "Classic Pad Thai",
+      "description": "Sure, here is a 1-line description for Classic Pad Thai: A stir-fried rice noodle dish with chicken, shrimp, vegetables, and a delicious peanut sauce",
+      "ingredients": [
+        "1/4 cup tamarind paste",
+        "3 tbsp fish sauce",
+        "1 tbsp palm sugar",
+        "1 tbsp white vinegar",
+        "1/4 cup water",
+        "2 tbsp vegetable oil",
+        "3 eggs, beaten",
+        "1/2 lb dried rice noodles",
+        "1/2 lb shrimp, peeled and deveined",
+        "1 cup bean sprouts",
+        "1/2 cup chopped green onions",
+        "1/4 cup chopped roasted peanuts",
+        "Lime wedges, for serving"
+      ],
+      "cooking_time": 25,
+      "calories": 550
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/ScbKX11/id6.png",
+      "title": "Hearty Chicken Pot Pie",
+      "description": "A comforting classic: savory chicken and vegetables in a rich gravy, topped with a flaky crust",
+      "ingredients": [
+        "1 tbsp olive oil",
+        "1 onion, chopped",
+        "2 carrots, diced",
+        "2 celery stalks, diced",
+        "4 cloves garlic, minced",
+        "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces",
+        "1/2 cup all-purpose flour",
+        "4 cups chicken broth",
+        "1 cup frozen peas",
+        "1 puff pastry sheet, thawed"
+        ],
+      "cooking_time": 22,
+      "calories": 500
+  },
+  {
+      "id":7,
+        "cover": "https://i.ibb.co/ggWHGBx/id7.png",
+        "title": "Creamy Tomato Basil Pasta",
+        "description": "Creamy Tomato Basil Pasta: Fresh tomatoes and basil mingle in a luxuriously smooth sauce coating your favorite pasta",
+        "ingredients": [
+          "1 pound dry penne pasta",
+          "2 tablespoons olive oil",
+          "1 medium onion, chopped",
+          "4 cloves garlic, minced",
+          "1 (28-ounce) can crushed tomatoes",
+          "1/2 cup heavy cream",
+          "1/4 cup chopped fresh basil",
+          "Salt and pepper to taste",
+          "Parmesan cheese, for serving (optional)"
+        ],
+        "cooking_time": 20,
+        "calories": 450
+      },
+      {
+      "id":8,
+        "cover": "https://i.ibb.co/ct3jYpK/id8.png",
+        "title": "Cheesy Chicken Fried Rice",
+        "description": "Savory fried rice loaded with tender chicken and gooey melted cheese",
+        "ingredients": [
+          "2 cups cooked white rice",
+          "2 tablespoons vegetable oil",
+          "1 pound boneless, skinless chicken breasts, diced",
+          "1 scrambled egg",
+          "1 cup frozen mixed vegetables",
+          "1/2 cup shredded cheddar cheese",
+          "1/4 cup soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 teaspoon grated ginger",
+          "1/2 teaspoon garlic powder",
+          "Salt and pepper to taste"
+        ],
+        "cooking_time": 30,
+        "calories": 500
+      },
+      {
+      "id":9,
+        "cover": "https://i.ibb.co/CKfJ14F/id9.png",
+        "title": "Hearty Lentil Soup",
+        "description": "A protein-packed lentil soup simmered with vegetables for a comforting and delicious meal",
+        "ingredients": [
+          "1 tablespoon olive oil",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 celery stalks, chopped",
+          "2 cloves garlic, minced",
+          "1 cup brown lentils, rinsed",
+          "4 cups vegetable broth",
+          "1 (14.5-ounce) can diced tomatoes, undrained",
+          "1 teaspoon dried thyme",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "Chopped fresh parsley, for serving (optional)"
+        ],
+        "cooking_time": 45,
+        "calories": 300
+      },
+      {
+      "id":10,
+        "cover": "https://i.ibb.co/qksJ65V/id10.png",
+        "title": "Classic Greek Salad",
+        "description": "A refreshing mix of cucumbers, tomatoes, onions, olives, and feta cheese tossed in a simple vinaigrette",
+        "ingredients": [
+          "4 cups romaine lettuce, chopped",
+          "1 cucumber, sliced",
+          "1 tomato, diced",
+          "1 red onion, sliced",
+          "1/2 cup crumbled feta cheese",
+          "1/4 cup Kalamata olives, pitted and halved",
+          "2 tablespoons olive oil",
+          "2 tablespoons lemon juice",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "cooking_time": 15,
+        "calories": 350
+      },
+      {
+      "id":11,
+        "cover": "https://i.ibb.co/KFL4s6f/id11.png",
+        "title": "Savory Chicken Pot Pie",
+        "description": "A comforting classic: tender chicken and vegetables in a rich gravy encased in a flaky golden crust",
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "1 chopped onion ",
+          "2 chopped carrots ",
+          "2 choppedcelery stalks",
+          "1 pound boneless, skinless chicken breasts, diced",
+          "1/2 cup all-purpose flour",
+          "4 cups chicken broth",
+          "1/2 cup frozen peas",
+          "1 puff pastry sheet thawed",
+          "1 egg, beaten",
+          "Salt and pepper to taste"
+        ],
+        "cooking_time": 60,
+        "calories": 550
+      },
+      {
+      "id":12,
+        "cover": "https://i.ibb.co/frFsJvF/id12.png",
+        "title": "Chewy Chocolate Chip Cookies",
+        "description": "Soft and chewy chocolate chip cookies bursting with melty chocolate chips",
+        "ingredients": [
+          "1 cup (2 sticks) unsalted softened butter ",
+          "1 cup granulated sugar",
+          "1 cup packed light brown sugar",
+          "2 large eggs",
+          "2 teaspoons pure vanilla extract",
+          "3 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1 teaspoon salt",
+          "2 cups semisweet chocolate chips"
+        ],
+        "cooking_time": 20,
+        "calories": 200
+      }
+  ]
