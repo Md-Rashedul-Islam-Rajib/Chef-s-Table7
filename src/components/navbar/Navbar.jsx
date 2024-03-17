@@ -40,7 +40,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost text-3xl font-bold">Recipe Calories</a>
+          <a className="btn btn-ghost text-3xl font-bold">Chef's Table</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 text-[#150B2BB2]">
