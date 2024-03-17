@@ -1,6 +1,6 @@
 const Banner = () => {
   return (
-    <div className=" flex flex-col items-center justify-center mt-8 bg-[url('/public/images/Rectangle.png')] bg-contain bg-no-repeat h-[600px] text-center">
+    <div className="flex flex-col items-center justify-center mt-8 bg-[url('/images/Rectangle.png')] bg-contain bg-no-repeat h-[600px] text-center">
       <h3 className="text-5xl font-bold text-white leading-[70px]">
         Discover an exceptional cooking <br /> class tailored for you!
       </h3>

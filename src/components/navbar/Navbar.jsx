@@ -76,7 +76,7 @@ const Navbar = () => {
             
           </label>
           <div className="bg-[#0BE58A] rounded-[50%] p-2 ml-3">
-            <img src="/public/images/Frame.png" alt="" />
+            <img src="/Frame.png" alt="" />
           </div>
         </div>
       </div>
