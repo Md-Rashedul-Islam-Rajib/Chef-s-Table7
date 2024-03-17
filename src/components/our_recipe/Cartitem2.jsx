@@ -1,4 +1,5 @@
-import React from 'react';
+/* eslint-disable react/prop-types */
+
 
 const Cartitem2 = ({item,idx}) => {
     const {title,cooking_time,calories} =item;

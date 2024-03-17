@@ -1,6 +1,7 @@
+/* eslint-disable react/prop-types */
 import React, { useEffect, useState } from 'react';
 import Card from './Card';
-const Cards = ({setCarts,carts,setPrepareItem,prepareItem}) => {
+const Cards = ({setCarts,carts,setPrepareItem,prepareItem,cookingCount,setCookingCount}) => {
     const [cards, setCards] = useState([]);
 
     useEffect(() => {
@@ -14,7 +15,16 @@ const Cards = ({setCarts,carts,setPrepareItem,prepareItem}) => {
     return (
         <div className='grid grid-cols-1 md:grid-cols-2 md:gap-4'>
             {
-                cards.map((card) => <Card prepareItem={prepareItem} setPrepareItem={setPrepareItem} setCarts={setCarts} carts={carts} key={card.id} card={card}></Card>)
+                cards.map((card) => <Card
+                 prepareItem={prepareItem}
+                  setPrepareItem={setPrepareItem}
+                   setCarts={setCarts}
+                    carts={carts}
+                     key={card.id}
+                      card={card}
+                       cookingCount={cookingCount}
+                        setCookingCount={setCookingCount}
+                      ></Card>)
             }
         </div>
     );

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { CiClock2 } from "react-icons/ci";
 import { AiOutlineFire } from "react-icons/ai";
 
@@ -28,7 +29,6 @@ const Card = ({ card, setCarts,carts,setPrepareItem,prepareItem }) => {
       </div>
       <button onClick={()=>{
         setCarts([...carts,card])
-        // setPrepareItem([...prepareItem,card])
       }} className="bg-[#0BE58A] text-[#150B2B] py-2 px-3 rounded-3xl text-lg font-medium">
         Want To Cook
       </button>
