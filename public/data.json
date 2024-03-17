@@ -10,7 +10,7 @@
         "4 cloves garlic, minced",
         "1/2 tsp red pepper flakes",
         "1 lb shrimp",
-        "1 cup cherry tomatoes, halved",
+        "1 cup cherry tomatoes",
         "1/2 cup crumbled feta cheese",
         "1/4 cup chopped fresh parsley",
         "Salt and pepper to taste"
@@ -48,7 +48,7 @@
       "ingredients": [
         "1 cup unsalted butter",
         "1 cup granulated sugar",
-        "1 cup packed light brown sugar",
+        "1 cup packed brown sugar",
         "2 large eggs",
         "2 tsp pure vanilla extract",
         "2 1/4 cups all-purpose flour",
@@ -85,7 +85,7 @@
       "id": 5,
       "cover": "https://i.ibb.co/nBn4Pvw/id5.png",
       "title": "Classic Pad Thai",
-      "description": "A stir-fried rice dish with chicken, shrimp, vegetables, and a delicious peanut sauce",
+      "description": "A stir-fried rice dish with chicken,vegetables and a delicious sauce",
       "ingredients": [
         "1/4 cup tamarind paste",
         "3 tbsp fish sauce",
@@ -196,7 +196,7 @@
           "1 cucumber, sliced",
           "1 tomato, diced",
           "1 red onion, sliced",
-          "1/2 cup crumbled feta cheese",
+          "1/2 cup crumbled cheese",
           "1/4 cup olives",
           "2 tablespoons olive oil",
           "2 tablespoons lemon juice",
@@ -210,7 +210,7 @@
       "id":11,
         "cover": "https://i.ibb.co/KFL4s6f/id11.png",
         "title": "Savory Chicken Pot Pie",
-        "description": "Tender chicken and vegetables in a rich gravy encased in a flaky golden crust",
+        "description": "Tender chicken and vegetables in a rich gravy encased in a golden crust",
         "ingredients": [
           "2 tablespoons olive oil",
           "1 chopped onion ",

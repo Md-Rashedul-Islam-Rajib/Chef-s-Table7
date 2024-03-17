@@ -30,7 +30,7 @@ const Card = ({ card, setCarts,carts,setPrepareItem,prepareItem,handleAddToCart 
       <button onClick={()=>{
         handleAddToCart(card)
         // setCarts([...carts,card])
-      }} className="bg-[#0BE58A] text-[#150B2B] py-2 px-3 rounded-3xl text-lg font-medium">
+      }} className="bg-[#0BE58A] hover:bg-[#35F3A3]  text-[#150B2B] py-2 px-3 rounded-3xl text-lg font-medium">
         Want To Cook
       </button>
     </div>

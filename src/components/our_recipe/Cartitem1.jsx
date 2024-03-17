@@ -17,7 +17,7 @@ const Cartitem1 = ({item,idx,setPrepareItem,carts,setCarts,prepareItem,totalTime
             setTotalTime(totalTime + cooking_time);
             setTotalCalories(totalCalories + calories);
           }}
-          className="bg-[#0BE58A] text-[#150B2B] py-2 px-3 rounded-3xl text-lg font-medium"
+          className="bg-[#0BE58A] hover:bg-[#35F3A3] text-[#150B2B] py-2 px-3 rounded-3xl text-lg font-medium"
         >
           Preparing
         </button>

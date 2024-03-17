@@ -6,10 +6,10 @@ const Navbar = () => {
       <div className="navbar bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
-            <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+            <div tabIndex={0} role="button" className="btn btn-ghost hidden">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5"
+                className="h-3 w-3"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
@@ -24,7 +24,7 @@ const Navbar = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 text-[#150B2BB2]"
+              className="menu menu-sm dropdown-content mt-3 z-[1] shadow bg-base-100 rounded-box w-52 text-[#150B2BB2]"
             >
               <li>
                 <a>Home</a>
@@ -59,7 +59,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <label className="input flex items-center gap-1 bg-[#150B2B0D] rounded-3xl">
+          <label className="input hidden md:flex items-center gap-1 bg-[#150B2B0D] rounded-3xl">
           <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 16 16"
