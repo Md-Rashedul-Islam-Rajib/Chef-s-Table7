@@ -2,7 +2,7 @@
 import { CiClock2 } from "react-icons/ci";
 import { AiOutlineFire } from "react-icons/ai";
 
-const Card = ({ card, setCarts,carts,setPrepareItem,prepareItem }) => {
+const Card = ({ card, setCarts,carts,setPrepareItem,prepareItem,handleAddToCart }) => {
   const { cover, title, description, ingredients, cooking_time, calories } = card;
   return (
     <div className="p-6 border-[1px] border-[#2828281A] rounded-2xl">
@@ -28,7 +28,8 @@ const Card = ({ card, setCarts,carts,setPrepareItem,prepareItem }) => {
         </div>
       </div>
       <button onClick={()=>{
-        setCarts([...carts,card])
+        handleAddToCart(card)
+        // setCarts([...carts,card])
       }} className="bg-[#0BE58A] text-[#150B2B] py-2 px-3 rounded-3xl text-lg font-medium">
         Want To Cook
       </button>
